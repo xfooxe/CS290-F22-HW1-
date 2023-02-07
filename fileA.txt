@@ -1,1 +1,2 @@
 feature 1 with bugfix
+feature 2
